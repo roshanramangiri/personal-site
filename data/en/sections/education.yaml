@@ -20,7 +20,7 @@ degrees:
   #   scale: CGPA
   #   achieved: 3.6
   #   outOf: 4
-  publications: #(optional)
+  Features: #(optional)
   - title: Enrolled with SII Scholarship (Study in India)
     url: "#"
   - title: Specialized in Cloud Technology and Information Security.
